@@ -1,5 +1,6 @@
 {
-  "name": "@xenyo/parcel-resolver-exclude-node-modules",
+  "name": "parcel-resolver-exclude-node-modules",
+  "version": "0.0.1",
   "description": "Parcel plugin that excludes files in node_modules directories.",
   "main": "src/index.js",
   "engines": {
