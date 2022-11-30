@@ -1,0 +1,21 @@
+{
+  "name": "@xenyo/parcel-resolver-exclude-node-modules",
+  "description": "Parcel plugin that excludes files in node_modules directories.",
+  "main": "src/index.js",
+  "engines": {
+    "parcel": ">=2.0.0"
+  },
+  "homepage": "https://github.com/xenyo/parcel-resolver-exclude-node-modules#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xenyo/parcel-resolver-exclude-node-modules.git"
+  },
+  "author": "Parkle Lee",
+  "license": "GPLv2",
+  "peerDependencies": {
+    "parcel": ">=2.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
